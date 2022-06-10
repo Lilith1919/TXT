@@ -1,14 +1,8 @@
-Summary: The captcha is not updated on the “Change Your Email address here” form after clicking
-the “Not readable? Change text” link.
-Description: The captcha is not updated on the “Change Your Email address here” form after clicking
-the “Not readable? Change text” link.
+Summary: The slider picture is not fully displayed at the slider after clicking the "Results" tab.
+Description: The slider picture is not fully displayed at the slider after clicking the "Results" tab.
 Steps to reproduce:
-1. Go to the site http://clgcms.testlab.net/
-2. Click the “Sign-up” link.
-3. Enter valid data into the required fields.
-4. Enter blank spaces and special characters into the “Username” field.
-5. Pay attention to the “Username” field.
-Actual result: Blank spaces and special characters are accepted in the “Username” field on the
-registration form.
-Expected result: The “Username” field is highlighted in red and the error message is displayed on the
-registration form after entering blank spaces and special characters into the “Username” field.
+1. Open the site http://clgcms.testlab.com
+2. Click the "Results" tab of the main menu.
+3. Take a look at the slider pictures.
+Actual result: The slider picture is not fully displayed at the slider after clicking the "Results" tab.
+Expected result: The slider picture is fully displayed at the slider after clicking the "Results" tab.
