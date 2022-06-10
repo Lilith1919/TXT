@@ -1,1 +1,10 @@
-
+Steps to reproduce:
+1. Go to the site http://clgcms.qa-testlab.net/
+2. Click the “Sign-up” link.
+3. Enter valid data into the required fields.
+4. Enter blank spaces and special characters into the “Username” field.
+5. Pay attention to the “Username” field.
+Actual result: Blank spaces and special characters are accepted in the “Username” field on the
+registration form.
+Expected result: The “Username” field is highlighted in red and the error message is displayed on the
+registration form after entering blank spaces and special characters into the “Username” field.
