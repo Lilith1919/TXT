@@ -1,5 +1,9 @@
+Summary: The captcha is not updated on the “Change Your Email address here” form after clicking
+the “Not readable? Change text” link.
+Description: The captcha is not updated on the “Change Your Email address here” form after clicking
+the “Not readable? Change text” link.
 Steps to reproduce:
-1. Go to the site http://clgcms.qa-testlab.net/
+1. Go to the site http://clgcms.testlab.net/
 2. Click the “Sign-up” link.
 3. Enter valid data into the required fields.
 4. Enter blank spaces and special characters into the “Username” field.
