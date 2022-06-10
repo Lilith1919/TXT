@@ -1,0 +1,11 @@
+Мои предполагаемые навыки
+
+Базовая теория по QA Basic theory of QA
+Cтруктура JSON, XML JSON structure, XML
+Postman
+мобильное тестирование mobile testing
+Основы SQL SQL basics
+Postgres database
+База данных Postgres 
+Scrum
+Python
